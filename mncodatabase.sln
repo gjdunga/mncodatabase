@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{13B669BE-BB05-4DDF-9536-439F39A36129}") = "mncodatabase", "mncodatabase.phpproj", "{327C0D37-094E-4583-8E66-C4276B6EAD5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{327C0D37-094E-4583-8E66-C4276B6EAD5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{327C0D37-094E-4583-8E66-C4276B6EAD5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{327C0D37-094E-4583-8E66-C4276B6EAD5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{327C0D37-094E-4583-8E66-C4276B6EAD5F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {403A2597-732D-497E-B869-B77E9B0370A0}
+	EndGlobalSection
+EndGlobal
